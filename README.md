@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming & Hacking
 - 🌱 I’m currently learning Programming & Ethical Hacking
 - 💞️ I’m looking to collaborate on CyberSecurity & Related on programming
-- 📫 How to reach me through mail or my LinkedIn profile. 
+- 📫 reach me through mail or my LinkedIn profile. 
 
 <!---
 MrBaten/MrBaten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
