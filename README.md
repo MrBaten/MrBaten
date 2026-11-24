@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://mrbaten.github.io"><img src="https://img.shields.io/badge/Portfolio-mrbaten.github.io-03fca9?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=000000" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mrbaten/"><img src="https://img.shields.io/badge/LinkedIn-mrbaten-03fca9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
-  <a href="https://www.researchgate.net/profile/Md-Baten-7"><img src="https://img.shields.io/badge/ResearchGate-Md%20Baten-03fca9?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=000000" alt="ResearchGate"/></a>
-  <a href="mailto:abubaten.a@gmail.com"><img src="https://img.shields.io/badge/Email-abubaten.a%40gmail.com-03fca9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
-  <a href="https://x.com/mr_baten"><img src="https://img.shields.io/badge/X-mr__baten-03fca9?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/></a>
+  <a href="https://mrbaten.github.io"><img src="./assets/badge-portfolio.svg" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mrbaten/"><img src="./assets/badge-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://www.researchgate.net/profile/Md-Baten-7"><img src="./assets/badge-researchgate.svg" alt="ResearchGate"/></a>
+  <a href="mailto:abubaten.a@gmail.com"><img src="./assets/badge-email.svg" alt="Email"/></a>
+  <a href="https://x.com/mr_baten"><img src="./assets/badge-x.svg" alt="X"/></a>
 </p>
 
 ---
